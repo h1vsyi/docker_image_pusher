@@ -1,2 +1,1 @@
-tugraph/tugraph-runtime-centos7
 RAGFLOW_IMAGE=infiniflow/ragflow:v0.16.0
