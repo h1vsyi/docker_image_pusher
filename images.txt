@@ -1,1 +1,12 @@
-infiniflow/ragflow:v0.16.0
+busybox:latest
+langgenius/dify-api:1.13.0
+langgenius/dify-plugin-daemon:0.5.3-local
+nginx:latest
+semitechnologies/weaviate:1.27.0
+langgenius/dify-api:1.13.0
+langgenius/dify-web:1.13.0
+ubuntu/squid:latest
+postgres:15-alpine
+langgenius/dify-sandbox:0.2.12
+redis:6-alpine
+langgenius/dify-api:1.13.0
